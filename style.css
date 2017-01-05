@@ -12,6 +12,12 @@ body {
 #wrapper {
   width: 500px;
   margin: 20px auto 20px auto;
+
+}
+
+#id{
+  width: 200px;
+  height: auto;
 }
 
 h1{
