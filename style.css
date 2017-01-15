@@ -1,31 +1,31 @@
 body {
-  font-family: 'cambria', arial, sans-serif;
-  font-weight: 500;
-  font-style: italic;
-  font-variant: small-caps;
-  color: :white:
-  background-image: url(newskyline.jpg);
-  background-size: cover;
-  color:blue
-
+  margin-top: 30px;
 }
-#wrapper {
-  width: 500px;
-  margin: 20px auto 20px auto;
-
+.navbar-inverse .navbar-brand {
+  font-family: "Bungee Shade";
+  font-size: 36px;
+  color: #ff3061;
+  padding-top: 20px;
 }
-
-#pic{
-  width: 200px;
-  height: ;
+h1.title {
+  padding: 0 30px 30px 0;
 }
-
-h1{
-  color:red;
+h2 {
+  font-size: 22px;
 }
-#summary{
-  color:purple;
+.rating {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 4px;
+  vertical-align: middle;
 }
-.skills-and-hobbies{
-  color:orange;
+.summary h2, .actors h2 {
+  margin-top: 0;
+}
+.actors li {
+  line-height: 24px;
+}
+.review {
+  margin-bottom: 30px;
 }
