@@ -11,7 +11,15 @@ body {
 }
 
 .full {
-  background: url(https://s29.postimg.org/bg38umvyf/DSC01698_1.jpg) no-repeat center center fixed; 
+  background: url(https://s29.postimg.org/bg38umvyf/DSC01698_1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fullvenue {
+  background: url(http://static.wixstatic.com/media/4f70fd_d1b48627b0204769b65c9cf65b5ef498.jpg_srz_960_640_85_22_0.50_1.20_0.00_jpg_srz) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
