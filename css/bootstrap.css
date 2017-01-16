@@ -1083,7 +1083,7 @@ html {
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -1183,7 +1183,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: initialism;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -2113,7 +2113,7 @@ pre code {
     width: 58.33333333%;
   }
   .col-lg-6 {
-    width: 100%;
+    width: 50%;
   }
   .col-lg-5 {
     width: 41.66666667%;
@@ -2542,7 +2542,7 @@ input[type="checkbox"]:focus {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 1.42857143;
   color: #555;
 }
