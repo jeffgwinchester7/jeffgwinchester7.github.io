@@ -2,6 +2,8 @@ body {
   margin-top: 0px;
 	margin-bottom: 5px;
   font-family: 'Slabo 27px', serif;
+  background-color: white;
+  opacity: 0.8;
 }
 
 h1 {
@@ -67,4 +69,8 @@ footer {
 
 #logisticsbutton{
   margin-bottom: 5px;
+}
+
+#aboutopacity{
+  opacity: 1.2;
 }
