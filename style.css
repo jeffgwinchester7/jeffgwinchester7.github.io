@@ -23,7 +23,6 @@ p {
 }
 
 
-
 /*! For Wedding Party */
 .img-center {
 	margin: 0 auto;
@@ -64,4 +63,8 @@ footer {
 
 #date{
   color: #29ddbb;
+}
+
+#logisticsbutton{
+  margin-bottom: 5px;
 }
