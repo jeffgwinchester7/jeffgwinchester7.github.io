@@ -7,7 +7,8 @@ body {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
   background: none;
   background-size: cover;
 }
@@ -21,7 +22,8 @@ h3 {
 }
 
 p {
-  font-size: 10px;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
 }
 
 
@@ -59,6 +61,15 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.fulllogistics {
+  background: url(https://media.giphy.com/media/hcl8WOJGldcRi/source.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: contain;
+  margin-bottom: px;
 }
 
 /*! End image pages*/
